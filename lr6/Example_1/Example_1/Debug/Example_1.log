@@ -1,0 +1,4 @@
+﻿  matrix.cpp
+  matrix.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  Example_1.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\ОПИ911\лаб6\Example_1\Debug\Example_1.exe
+  Example_1.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\ОПИ911\лаб6\Example_1\Debug\Example_1.pdb (Partial PDB)

@@ -1,0 +1,13 @@
+﻿  function.cpp
+  Создание кода...
+c:\users\admin\documents\visual studio 2015\опи911\лаб2\modular prodramming2\modular prodramming2\function.cpp(108): warning C4715: f1: значение возвращается не при всех путях выполнения
+c:\users\admin\documents\visual studio 2015\опи911\лаб2\modular prodramming2\modular prodramming2\function.cpp(131): warning C4715: f2: значение возвращается не при всех путях выполнения
+c:\users\admin\documents\visual studio 2015\опи911\лаб2\modular prodramming2\modular prodramming2\function.cpp(154): warning C4715: f3: значение возвращается не при всех путях выполнения
+  Компиляция...
+  main.cpp
+c:\users\admin\documents\visual studio 2015\опи911\лаб2\modular prodramming2\modular prodramming2\main.cpp(33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\documents\visual studio 2015\опи911\лаб2\modular prodramming2\modular prodramming2\main.cpp(67): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\documents\visual studio 2015\опи911\лаб2\modular prodramming2\modular prodramming2\main.cpp(101): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Modular Prodramming2.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\ОПИ911\лаб2\Modular Prodramming2\Debug\Modular Prodramming2.exe
+  Modular Prodramming2.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\ОПИ911\лаб2\Modular Prodramming2\Debug\Modular Prodramming2.pdb (Full PDB)
